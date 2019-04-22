@@ -1,0 +1,179 @@
+C:\Users\amitha1\source\repos\ImportUsingRadioButton\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.exe.config
+C:\Users\amitha1\source\repos\ImportUsingRadioButton\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.exe
+C:\Users\amitha1\source\repos\ImportUsingRadioButton\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.pdb
+C:\Users\amitha1\source\repos\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csprojAssemblyReference.cache
+C:\Users\amitha1\source\repos\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Form1.resources
+C:\Users\amitha1\source\repos\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Properties.Resources.resources
+C:\Users\amitha1\source\repos\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.GenerateResource.cache
+C:\Users\amitha1\source\repos\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\amitha1\source\repos\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.exe
+C:\Users\amitha1\source\repos\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.pdb
+C:\Users\amitha1\source\repos\ImportUsingRadioButton\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\amitha1\source\repos\ImportUsingRadioButton\ImportUsingRadioButton\bin\Debug\ExcelDataReader.dll
+C:\Users\amitha1\source\repos\ImportUsingRadioButton\ImportUsingRadioButton\bin\Debug\ExcelDataReader.xml
+C:\Users\amitha1\source\repos\ImportUsingRadioButton\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\amitha1\source\repos\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CopyComplete
+C:\Users\CFS-RPSTEM8\Desktop\ImportUsingRadioButton\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.exe.config
+C:\Users\CFS-RPSTEM8\Desktop\ImportUsingRadioButton\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.exe
+C:\Users\CFS-RPSTEM8\Desktop\ImportUsingRadioButton\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.pdb
+C:\Users\CFS-RPSTEM8\Desktop\ImportUsingRadioButton\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\CFS-RPSTEM8\Desktop\ImportUsingRadioButton\ImportUsingRadioButton\bin\Debug\ExcelDataReader.dll
+C:\Users\CFS-RPSTEM8\Desktop\ImportUsingRadioButton\ImportUsingRadioButton\bin\Debug\ExcelDataReader.xml
+C:\Users\CFS-RPSTEM8\Desktop\ImportUsingRadioButton\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\CFS-RPSTEM8\Desktop\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csprojAssemblyReference.cache
+C:\Users\CFS-RPSTEM8\Desktop\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Form1.resources
+C:\Users\CFS-RPSTEM8\Desktop\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Properties.Resources.resources
+C:\Users\CFS-RPSTEM8\Desktop\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.GenerateResource.cache
+C:\Users\CFS-RPSTEM8\Desktop\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\CFS-RPSTEM8\Desktop\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CopyComplete
+C:\Users\CFS-RPSTEM8\Desktop\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.exe
+C:\Users\CFS-RPSTEM8\Desktop\ImportUsingRadioButton\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.pdb
+C:\Users\CFS-RPSTEM8\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.exe.config
+C:\Users\CFS-RPSTEM8\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.exe
+C:\Users\CFS-RPSTEM8\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.pdb
+C:\Users\CFS-RPSTEM8\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\CFS-RPSTEM8\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.dll
+C:\Users\CFS-RPSTEM8\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.xml
+C:\Users\CFS-RPSTEM8\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\CFS-RPSTEM8\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csprojAssemblyReference.cache
+C:\Users\CFS-RPSTEM8\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Form1.resources
+C:\Users\CFS-RPSTEM8\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Properties.Resources.resources
+C:\Users\CFS-RPSTEM8\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.GenerateResource.cache
+C:\Users\CFS-RPSTEM8\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\CFS-RPSTEM8\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CopyComplete
+C:\Users\CFS-RPSTEM8\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.exe
+C:\Users\CFS-RPSTEM8\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.pdb
+C:\Users\mallul\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csprojAssemblyReference.cache
+C:\Users\mallul\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Form1.resources
+C:\Users\mallul\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Properties.Resources.resources
+C:\Users\mallul\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.GenerateResource.cache
+C:\Users\mallul\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\mallul\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.exe
+C:\Users\mallul\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.pdb
+C:\Users\mallul\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.exe.config
+C:\Users\mallul\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.exe
+C:\Users\mallul\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.pdb
+C:\Users\mallul\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\mallul\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.dll
+C:\Users\mallul\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.xml
+C:\Users\mallul\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\mallul\Desktop\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CopyComplete
+C:\Users\mallul\Desktop\noon\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.exe.config
+C:\Users\mallul\Desktop\noon\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.exe
+C:\Users\mallul\Desktop\noon\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.pdb
+C:\Users\mallul\Desktop\noon\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\mallul\Desktop\noon\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.dll
+C:\Users\mallul\Desktop\noon\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.xml
+C:\Users\mallul\Desktop\noon\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\mallul\Desktop\noon\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csprojAssemblyReference.cache
+C:\Users\mallul\Desktop\noon\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Form1.resources
+C:\Users\mallul\Desktop\noon\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Properties.Resources.resources
+C:\Users\mallul\Desktop\noon\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.GenerateResource.cache
+C:\Users\mallul\Desktop\noon\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\mallul\Desktop\noon\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CopyComplete
+C:\Users\mallul\Desktop\noon\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.exe
+C:\Users\mallul\Desktop\noon\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.pdb
+C:\Users\mallul\Desktop\12-12_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csprojAssemblyReference.cache
+C:\Users\mallul\Desktop\12-12_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Form1.resources
+C:\Users\mallul\Desktop\12-12_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Properties.Resources.resources
+C:\Users\mallul\Desktop\12-12_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.GenerateResource.cache
+C:\Users\mallul\Desktop\12-12_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\mallul\Desktop\12-12_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.exe
+C:\Users\mallul\Desktop\12-12_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.pdb
+C:\Users\mallul\Desktop\12-12_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.exe.config
+C:\Users\mallul\Desktop\12-12_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.exe
+C:\Users\mallul\Desktop\12-12_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.pdb
+C:\Users\mallul\Desktop\12-12_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\mallul\Desktop\12-12_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.dll
+C:\Users\mallul\Desktop\12-12_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.xml
+C:\Users\mallul\Desktop\12-12_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\mallul\Desktop\12-12_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CopyComplete
+C:\Users\mallul\Desktop\12-13_Morning - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.exe.config
+C:\Users\mallul\Desktop\12-13_Morning - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.exe
+C:\Users\mallul\Desktop\12-13_Morning - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ImportUsingRadioButton.pdb
+C:\Users\mallul\Desktop\12-13_Morning - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\mallul\Desktop\12-13_Morning - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.dll
+C:\Users\mallul\Desktop\12-13_Morning - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.xml
+C:\Users\mallul\Desktop\12-13_Morning - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\mallul\Desktop\12-13_Morning - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csprojAssemblyReference.cache
+C:\Users\mallul\Desktop\12-13_Morning - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Form1.resources
+C:\Users\mallul\Desktop\12-13_Morning - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Properties.Resources.resources
+C:\Users\mallul\Desktop\12-13_Morning - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.GenerateResource.cache
+C:\Users\mallul\Desktop\12-13_Morning - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\mallul\Desktop\12-13_Morning - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CopyComplete
+C:\Users\mallul\Desktop\12-13_Morning - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.exe
+C:\Users\mallul\Desktop\12-13_Morning - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.pdb
+C:\Users\mallul\Desktop\12-14_Morning - Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\SRCBM_Scoring_Inquisit.exe.config
+C:\Users\mallul\Desktop\12-14_Morning - Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\SRCBM_Scoring_Inquisit.exe
+C:\Users\mallul\Desktop\12-14_Morning - Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\SRCBM_Scoring_Inquisit.pdb
+C:\Users\mallul\Desktop\12-14_Morning - Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\mallul\Desktop\12-14_Morning - Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.dll
+C:\Users\mallul\Desktop\12-14_Morning - Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.xml
+C:\Users\mallul\Desktop\12-14_Morning - Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\mallul\Desktop\12-14_Morning - Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Form1.resources
+C:\Users\mallul\Desktop\12-14_Morning - Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\SRCBM_Scoring_Inquisit.Properties.Resources.resources
+C:\Users\mallul\Desktop\12-14_Morning - Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.GenerateResource.cache
+C:\Users\mallul\Desktop\12-14_Morning - Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\mallul\Desktop\12-14_Morning - Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CopyComplete
+C:\Users\mallul\Desktop\12-14_Morning - Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\SRCBM_Scoring_Inquisit.exe
+C:\Users\mallul\Desktop\12-14_Morning - Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\SRCBM_Scoring_Inquisit.pdb
+C:\Users\mallul\Desktop\12-19_Morning Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\SRCBM_Scoring_Inquisit.exe.config
+C:\Users\mallul\Desktop\12-19_Morning Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\SRCBM_Scoring_Inquisit.exe
+C:\Users\mallul\Desktop\12-19_Morning Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\SRCBM_Scoring_Inquisit.pdb
+C:\Users\mallul\Desktop\12-19_Morning Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\mallul\Desktop\12-19_Morning Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.dll
+C:\Users\mallul\Desktop\12-19_Morning Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.xml
+C:\Users\mallul\Desktop\12-19_Morning Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\mallul\Desktop\12-19_Morning Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csprojAssemblyReference.cache
+C:\Users\mallul\Desktop\12-19_Morning Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Form1.resources
+C:\Users\mallul\Desktop\12-19_Morning Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\SRCBM_Scoring_Inquisit.Properties.Resources.resources
+C:\Users\mallul\Desktop\12-19_Morning Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.GenerateResource.cache
+C:\Users\mallul\Desktop\12-19_Morning Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\mallul\Desktop\12-19_Morning Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CopyComplete
+C:\Users\mallul\Desktop\12-19_Morning Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\SRCBM_Scoring_Inquisit.exe
+C:\Users\mallul\Desktop\12-19_Morning Copy - Copy\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\SRCBM_Scoring_Inquisit.pdb
+C:\Users\mallul\Desktop\12-20_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\SRCBM_Scoring_Inquisit.exe.config
+C:\Users\mallul\Desktop\12-20_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\SRCBM_Scoring_Inquisit.exe
+C:\Users\mallul\Desktop\12-20_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\SRCBM_Scoring_Inquisit.pdb
+C:\Users\mallul\Desktop\12-20_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\mallul\Desktop\12-20_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.dll
+C:\Users\mallul\Desktop\12-20_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.xml
+C:\Users\mallul\Desktop\12-20_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\mallul\Desktop\12-20_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csprojAssemblyReference.cache
+C:\Users\mallul\Desktop\12-20_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Form1.resources
+C:\Users\mallul\Desktop\12-20_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\SRCBM_Scoring_Inquisit.Properties.Resources.resources
+C:\Users\mallul\Desktop\12-20_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.GenerateResource.cache
+C:\Users\mallul\Desktop\12-20_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\mallul\Desktop\12-20_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CopyComplete
+C:\Users\mallul\Desktop\12-20_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\SRCBM_Scoring_Inquisit.exe
+C:\Users\mallul\Desktop\12-20_Morning\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\SRCBM_Scoring_Inquisit.pdb
+C:\Users\mallul\Desktop\12-20 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csprojAssemblyReference.cache
+C:\Users\mallul\Desktop\12-20 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Form1.resources
+C:\Users\mallul\Desktop\12-20 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\SRCBM_Scoring_Inquisit.Properties.Resources.resources
+C:\Users\mallul\Desktop\12-20 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.GenerateResource.cache
+C:\Users\mallul\Desktop\12-20 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\mallul\Desktop\12-20 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\SRCBM_Scoring_Inquisit.exe
+C:\Users\mallul\Desktop\12-20 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\SRCBM_Scoring_Inquisit.pdb
+C:\Users\mallul\Desktop\12-20 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\SRCBM_Scoring_Inquisit.exe.config
+C:\Users\mallul\Desktop\12-20 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\SRCBM_Scoring_Inquisit.exe
+C:\Users\mallul\Desktop\12-20 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\SRCBM_Scoring_Inquisit.pdb
+C:\Users\mallul\Desktop\12-20 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\mallul\Desktop\12-20 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.dll
+C:\Users\mallul\Desktop\12-20 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.xml
+C:\Users\mallul\Desktop\12-20 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\mallul\Desktop\12-20 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CopyComplete
+C:\Users\mallul\Desktop\12-21 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\SRCBM_Scoring_Inquisit.exe.config
+C:\Users\mallul\Desktop\12-21 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\SRCBM_Scoring_Inquisit.exe
+C:\Users\mallul\Desktop\12-21 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\SRCBM_Scoring_Inquisit.pdb
+C:\Users\mallul\Desktop\12-21 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\mallul\Desktop\12-21 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.dll
+C:\Users\mallul\Desktop\12-21 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.xml
+C:\Users\mallul\Desktop\12-21 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\mallul\Desktop\12-21 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csprojAssemblyReference.cache
+C:\Users\mallul\Desktop\12-21 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.Form1.resources
+C:\Users\mallul\Desktop\12-21 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\SRCBM_Scoring_Inquisit.Properties.Resources.resources
+C:\Users\mallul\Desktop\12-21 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.GenerateResource.cache
+C:\Users\mallul\Desktop\12-21 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\mallul\Desktop\12-21 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\ImportUsingRadioButton.csproj.CopyComplete
+C:\Users\mallul\Desktop\12-21 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\SRCBM_Scoring_Inquisit.exe
+C:\Users\mallul\Desktop\12-21 -Prod\AllClasses_EachTimepoint\ImportUsingRadioButton\obj\Debug\SRCBM_Scoring_Inquisit.pdb
